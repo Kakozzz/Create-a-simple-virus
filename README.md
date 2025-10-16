@@ -1,17 +1,17 @@
 # Create-a-simple-virus
-Create a simple virus whit python
-🔐 Keylogger de Python (Propósitos Educativos)
+Create a simple virus with Python
+🔐 Python Keylogger (Educational Purposes)
 
-Este proyecto implementa un simple Keylogger (registrador de pulsaciones de teclas) utilizando la librería keyboard de Python. Ha sido creado exclusivamente para demostrar cómo funciona la intercepción de eventos de teclado en un entorno controlado.
+This project implements a simple keylogger (keystroke logger) using the Python keyboard library. It was created exclusively to demonstrate how keyboard event interception works in a controlled environment.
 
-⚠️ ADVERTENCIA DE SEGURIDAD Y ÉTICA (IMPORTANTE)
+⚠️ SECURITY AND ETHICS WARNING (IMPORTANT)
 
-El código de este repositorio es una herramienta de monitoreo y su uso debe ser estrictamente ético.
+The code in this repository is a monitoring tool and its use must be strictly ethical.
 
-Uso exclusivo para fines educativos, de investigación de seguridad, o en entornos controlados.
+Use for educational purposes, security research, or in controlled environments only.
 
-NUNCA utilices este código para registrar las pulsaciones de teclado de un tercero sin su consentimiento explícito, informado y por escrito.
+NEVER use this code to record a third party's keystrokes without their explicit, informed, and written consent.
 
-El uso no autorizado de herramientas de monitoreo puede ser ilegal y está penalizado por la ley.
+Unauthorized use of monitoring tools may be illegal and is punishable by law.
 
-El mensaje visible al ejecutar el script es un recordatorio de este principio: "USAR SOLO CON FINES EDUCATIVOS".
+The message displayed when running the script is a reminder of this principle: "USE FOR EDUCATIONAL PURPOSES ONLY."
