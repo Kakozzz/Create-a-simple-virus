@@ -15,3 +15,5 @@ NEVER use this code to record a third party's keystrokes without their explicit,
 Unauthorized use of monitoring tools may be illegal and is punishable by law.
 
 The message displayed when running the script is a reminder of this principle: "USE FOR EDUCATIONAL PURPOSES ONLY."
+download
+pip install keyboard
